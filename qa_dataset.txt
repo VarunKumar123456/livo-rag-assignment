@@ -1,0 +1,14 @@
+Q1: Why can neural networks approximate complex functions better than linear models?
+A: Neural networks use multiple layers and non-linear activation functions to model complex patterns.
+
+Q2: What limitation of RNNs do transformers overcome?
+A: Transformers overcome long-range dependency issues by using self-attention instead of sequential processing.
+
+Q3: Why is self-attention important in transformers?
+A: It allows each word to consider all other words in the sequence for better context.
+
+Q4: What is the real-world impact of overfitting?
+A: Overfitting causes models to fail on unseen data despite performing well on training data.
+
+Q5: How does depth help in deep learning?
+A: Deeper layers learn hierarchical and abstract representations of data.
